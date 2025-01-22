@@ -1,0 +1,22 @@
+Web dev:
+- picsum photos - like lorem ispum
+- <img tag > is void tag 
+<img src ="dbksdhrfoisefgj.jp" alt = "sfgsjfti">
+Silktide chrome extension - screen reader
+
+Anchor Eleme: - Hyperlinks <a href = "url">This is the link</a>- name and value
+-global attributes
+- Anchor tags used to refer to multi page website 
+Structure of the HTML file
+-<!Doctype html> - version of the html being used here
+-<html lang ="en"> <head><meta char= UTF8><title>TITLE </title> </head><body></body></html>
+
+## Three ways of adding css to the website: 
+1. Inline <tag style = css/> for eg: <html style(attribute)="background:blue"></html>:useful for Single element
+2. Internal: <style> css</style> : Useful for Single Html document
+3. External : <link href = "style.css"/>: Multipage webpage: two things to be added 1. relationship to the page 2. href link inside the <link rel and href />\
+
+##CSS Selector:
+1. Element Selector
+2. Class Selector: requires a . - helps group different elements and apply same styling
+3. Id Selector: requires a # : similar to a class selector , but can be applied to only one element in one HTML file: one id per html file
