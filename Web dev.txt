@@ -20,3 +20,10 @@ Structure of the HTML file
 1. Element Selector
 2. Class Selector: requires a . - helps group different elements and apply same styling
 3. Id Selector: requires a # : similar to a class selector , but can be applied to only one element in one HTML file: one id per html file
+4. attribute Selector: Help select an element in HTML with a particular attribute.
+5. Universal Selector: *{ CSS rule.}
+
+
+##CSS Properties:
+1. Color Properties : colorhunt.com - exciting color pallete for the developers
+2. font Properties: font families ,size etc. 1px = 1/96th of an inch , 1pt = 1/72 of an inch

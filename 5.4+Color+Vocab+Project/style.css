@@ -1,0 +1,32 @@
+html{
+    background-color: beige;
+}
+#red{
+    color:red;
+}
+#blue{
+    color:blue;
+}
+
+#orange{
+    color:orange;
+}
+
+#yellow{
+    color:yellow;
+}
+#green{
+    color:green;
+}
+.color-title{
+    font-weight: normal;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+
+body{
+    justify-content: center;
+    text-align: center;
+}
