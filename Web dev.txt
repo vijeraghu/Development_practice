@@ -35,3 +35,4 @@ Border: Thickness(10px), Type(dashed , solid), Color
     bORDER-top : specify
 
 border-width: 1 2 3 4 - respectively the size or the pixels of the border sides ( box sides )
+Padding Property:padding:20px; - distance between the element and the border
